@@ -1,5 +1,7 @@
 # Ubuntu系统部署Python3 Django项目
 
+Powered By icbug & AIYC
+
 >  本项目github地址:
 >
 > https://github.com/icbug-development-team/Django-code-editor
